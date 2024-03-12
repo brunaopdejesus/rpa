@@ -155,7 +155,7 @@
                 </ui:CursorPosition>
               </ui:Click.CursorPosition>
               <ui:Click.Target>
-                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="a223b03a-c82f-4fa7-a73c-f957a164b201" InformativeScreenshot="bbb254998f094133684f30c0478967e5" Selector="&lt;webctrl tag='BUTTON' /&gt;">
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="a223b03a-c82f-4fa7-a73c-f957a164b201" InformativeScreenshot="ccdcc1da8f56cbab88addfe2dcaa0d24" Selector="&lt;webctrl tag='BUTTON' /&gt;">
                   <ui:Target.TimeoutMS>
                     <InArgument x:TypeArguments="x:Int32" />
                   </ui:Target.TimeoutMS>
@@ -273,7 +273,7 @@
                         </ui:CursorPosition>
                       </ui:Click.CursorPosition>
                       <ui:Click.Target>
-                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0a8ac427-4132-4e8a-bbc0-e15a103e5ec2" InformativeScreenshot="3e38247ba850880fdafa84430f7313be" Selector="&lt;webctrl tag='INPUT' type='submit' /&gt;">
+                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0a8ac427-4132-4e8a-bbc0-e15a103e5ec2" InformativeScreenshot="c55e03ab82eab1495f5deef3ff901a22" Selector="&lt;webctrl tag='INPUT' type='submit' /&gt;">
                           <ui:Target.TimeoutMS>
                             <InArgument x:TypeArguments="x:Int32" />
                           </ui:Target.TimeoutMS>
